@@ -180,6 +180,17 @@ button {
   position: fixed;
   top: 0;
 }
+.headline{
+  display: flex;
+  justify-content: center;
+}
+a{
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
 
 @media only screen and (max-width: 700px) {
   .box-container {
